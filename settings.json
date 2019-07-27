@@ -1,0 +1,30 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": true,
+    "zenMode.hideTabs": false,
+    "editor.minimap.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/K",
+        "C:\\S\\cmdr\\vendor\\init.bat"
+    ],
+    "editor.snippetSuggestions": "top",
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.formatOnSave": true,
+    "breadcrumbs.enabled": true,
+    "glassit.alpha": 255,
+    "java.home": "C:\\Program Files\\Java\\jdk1.8.0_202",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 0,
+    "explorer.confirmDelete": false,
+    "editor.renderWhitespace": "all",
+    "zenMode.hideLineNumbers": false,
+    "update.mode": "none"
+}
