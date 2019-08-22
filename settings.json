@@ -18,13 +18,23 @@
     "editor.formatOnSave": true,
     "breadcrumbs.enabled": true,
     "glassit.alpha": 255,
-    "java.home": "C:\\Program Files\\Java\\jdk1.8.0_202",
+    "java.home": "C:\\Program Files\\Java\\jdk1.8.0_221",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "typescript.updateImportsOnFileMove.enabled": "always",
-    "window.zoomLevel": 0,
+    "window.zoomLevel": -1,
     "explorer.confirmDelete": false,
     "editor.renderWhitespace": "all",
     "zenMode.hideLineNumbers": false,
-    "update.mode": "none"
+    "update.mode": "none",
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "editor.formatOnPaste": true,
+    "html.format.indentInnerHtml": true,
+    "explorer.confirmDragAndDrop": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
 }

@@ -70,19 +70,19 @@
         "when": "terminalFocus"
     },
     {
-        "key": "shift+alt+up",
+        "key": "shift+z shift+up",
         "command": "workbench.action.splitEditorUp"
     },
     {
-        "key": "shift+alt+right",
+        "key": "shift+z shift+right",
         "command": "workbench.action.splitEditorRight"
     },
     {
-        "key": "shift+alt+left",
+        "key": "shift+z shift+left",
         "command": "workbench.action.splitEditorLeft"
     },
     {
-        "key": "shift+alt+down",
+        "key": "shift+z shift+down",
         "command": "workbench.action.splitEditorDown"
     }
 ]
